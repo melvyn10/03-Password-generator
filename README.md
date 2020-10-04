@@ -5,9 +5,13 @@ This HTML page consists of HTML and Javascripts to generate a random password. T
 
 The page would them prompt the user if they would like it to have the following:
 -lower case
+
 -uppercsae
+
 -numeric characters
+
 -special characters
+
 
 Appropriate checks to ensure user enters the appropriate number of character request and also at least one character type.
 
@@ -15,21 +19,34 @@ The page will alert the user of the number of characters and type of characters 
 
 
 The mobile responsive webpage consists of the following:
+
 	-Two stylesheets (CSS)
+	
 		-One created specifically for the webpages
+		
 		-One from the Bootstrap CDN, version 4.1.3
+		
 	-Three Java scripts
+	
 		-One from Jquery.com version, 3.3.1
+		
 		-One from Cloudflare.com version, 1.14.3
+		
 		-One from Bootstrp CDN, version 4.1.3
+		
 	-One html file was created for this webpage
+	
 		-index.html
+		
 			This is the main page which contain the prompts, events and Javascript
 
 The following were implemented:
 -the code to include semantic elements
+
 	-Header
+	
 	-Section
+	
 	
 -Added appropriate comments to the style file to ensure legibility
 
