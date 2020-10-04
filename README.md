@@ -43,3 +43,4 @@ Installation instruction
 -Publish the website in GitHub
 
 [! html light] (https:https://github.com/melvyn10/gt-homework3-2020-10-02/assets/images/Password_image_2020-10-04.jpg
+https://github.com/melvyn10/gt-homework3-2020-10-02/blob/main/assets/images/Password_image_2020-10-04.jpg
