@@ -35,7 +35,7 @@
         </header>
    
         <!-- row 2 -->
-        <input type="text" name="password" id="textBox">
+        <input type="text" name="newPassword" id="newPassword">
 
         <!-- row 3 -->
         <section class="row justify-content-center">
@@ -50,9 +50,14 @@
         {
             $("#genpassword").on("click", function() 
             {
-                $("#password").val(generatePassword());
+                $("#newPassword").val(generatePassword());
             });
         } );
+
+        function generatePasswordTest() {
+            var myPassword = 'abc';
+            return myPassword;
+        }
 
         function generatePassword() {
             /*
