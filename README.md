@@ -1,4 +1,4 @@
-# gt-homework2-2020-10-04
+# 03-Password-generator
 
 Password generator
 This HTML page consists of HTML and Javascripts to generate a random password. The page will prompt the user to enter the number of characters (between 8 and 128) they would want to have.
